@@ -20,13 +20,19 @@
 도메인 - http://www.intranet-service.store/ (AWS 서버)
 
 교수 
+
 ㄴ id : 1
+
 ㄴ password : 1
 
 학생
+
 ㄴ id : 21
+
 ㄴ password : password1
 
 관리자 
+
 ㄴ id : 9999
+
 ㄴ password : admin
